@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RssReader", "RssReader.csproj", "{05DB9CE9-E535-4EAE-94C5-4A8F6521FCAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05DB9CE9-E535-4EAE-94C5-4A8F6521FCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DB9CE9-E535-4EAE-94C5-4A8F6521FCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DB9CE9-E535-4EAE-94C5-4A8F6521FCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DB9CE9-E535-4EAE-94C5-4A8F6521FCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {047B53E8-8C52-40CD-B3B1-39A5C9F0C776}
+	EndGlobalSection
+EndGlobal
